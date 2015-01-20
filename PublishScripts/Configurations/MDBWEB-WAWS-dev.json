@@ -1,0 +1,21 @@
+{
+    "environmentSettings": {
+        "webSite": {
+            "name": "MDBWEB",
+            "location": "Southeast Asia"
+        },
+        "databases": [
+            {
+                "connectionStringName": "DefaultConnection",
+                "databaseName": "MDBWEB_db",
+                "serverName": "iomygtikzw",
+                "user": "fiyazhasan",
+                "password": "",
+                "edition": "",
+                "size": "",
+                "collation": "",
+                "location": "Southeast Asia"
+            }
+        ]
+    }
+}
